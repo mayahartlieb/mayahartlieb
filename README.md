@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mayahartlieb
+- 👋 Hi, I’m @mayahabchi
 - 👀 I’m interested in webdevelopment 
 - 🌱 I’m currently learning webdevelopment with Openclassrooms
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on project 2 (creating a webpage from a mockup using html and css only )
 - 📫 How to reach me : by message (here or on linkedIn)
 
 <!---
